@@ -1,0 +1,18 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+.boton-nav{
+    background-color: #0876DD;
+    border: none;
+    padding: 1rem;
+    color: #fff;
+    border-radius: 5px;
+    width: 10rem;
+    transition: .3s ease-out;
+    cursor: pointer;
+}
+
+.boton-nav:hover{
+    background-color: #E0F2FE;
+    color: #000;
+}
